@@ -1,0 +1,17 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const GET_USERS = "GET_USERS";
+export const LOADING_USERS = "LOADING_USERS";
+export const GET_PROGRAMS = "GET_PROGRAMS";
+export const PROGRAMS_LOADING = "PROGRAMS_LOADING";
+export const GET_SUBSCRIBED = "GET_SUBSCRIBED";
+export const SUBSCRIBED_LOADING = "SUBSCRIBED_LOADING";
+export const GET_DATA = "GET_DATA";
+export const DELETE_DATA = "DELETE_DATA";
+export const ADD_DATA = "ADD_DATA";
+export const ITEMS_LOADING = "ITEMS_LOADING";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const UPDATE = "UPDATE";
+export const GET_USERBYID = "GET_USERBYID";
+export const POST_USERBYID = "POST_USERBYID";
+export const USER1_LOADING = "USER1_LOADING";
