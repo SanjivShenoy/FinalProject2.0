@@ -1,6 +1,6 @@
-# MERN Shopping List
+# Event Management System
 
-> Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
+> Event Management app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 
 ## Quick Start
 
