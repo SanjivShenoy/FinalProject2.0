@@ -21,7 +21,7 @@
     "express": "^4.16.3",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^8.5.0",
-    "mongoose": "^5.1.6",
+    "mongoose": "^5.7.5",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "prismic-javascript": "^2.0.3",
